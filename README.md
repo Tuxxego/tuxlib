@@ -1,5 +1,5 @@
 # TuxLib
-A simple .tux library.
+Allows .Tux code to be in .Lua files.
 
 # Features
 
