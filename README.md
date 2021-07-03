@@ -1,4 +1,4 @@
-# tuxlib
+# TuxLib
 A simple .tux library.
 
 # Features
