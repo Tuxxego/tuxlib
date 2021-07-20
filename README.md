@@ -9,5 +9,4 @@ Allows .Tux code to be in .Lua files.
 # Compatibility
 
 - Garry's Mod
-- Tux Engine
-- Darkscrolls
+This was created for Gmod only
